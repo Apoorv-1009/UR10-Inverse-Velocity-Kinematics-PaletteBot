@@ -1,4 +1,6 @@
 # UR10-Inverse-Velocity-Kinematics-PaletteBot
+## Simulation
+![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740)
 
 This ROS2 package provides control scripts for a robotic arm equipped with a customized gripper, designed for automated painting tasks. The package utilizes inverse velocity kinematics for precise control of the end-effector. For producing a stable jacobian around singularity positions, the Damped Least Squares Inverse method is used
 
@@ -30,7 +32,6 @@ This controller draws a circle of radius 10cm. The circle is initially drawn at 
 
 This controller tracks a linear path from the initial position of the end-effector to a desired point.
 
-## Demonstration
-![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740)
+
 
 
