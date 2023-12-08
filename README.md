@@ -1,9 +1,9 @@
 # UR10-Inverse-Velocity-Kinematics-PaletteBot
-## Simulation
-Tasking the UR10 to trace the contours of an image
-![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740 =400x400)
-
 This ROS2 package provides control scripts for a robotic arm equipped with a customized gripper, designed for automated painting tasks. The package utilizes inverse velocity kinematics for precise control of the end-effector. For producing a stable jacobian around singularity positions, the Damped Least Squares Inverse method is used
+
+## Simulation
+Tasking the UR10 to trace the contours of an image <br> <br>
+![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740)
 
 ## Usage
 Launch the gazebo world using: 
