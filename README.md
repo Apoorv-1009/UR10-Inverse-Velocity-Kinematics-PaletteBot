@@ -30,3 +30,7 @@ This controller draws a circle of radius 10cm. The circle is initially drawn at 
 
 This controller tracks a linear path from the initial position of the end-effector to a desired point.
 
+## Demonstration
+![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740)
+
+
