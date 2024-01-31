@@ -3,7 +3,7 @@ This ROS2 package provides control scripts for a robotic arm equipped with a cus
 
 ## Simulation
 Tasking the UR10 to trace the contours of an image <br> <br>
-![apoorv sussy](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/02087fea-bf41-4b57-b08e-9c25b13e7740)
+![Untitled](https://github.com/Apoorv-1009/UR10-Inverse-Velocity-Kinematics-PaletteBot/assets/57452076/5d519a42-fc0f-4e8b-a535-db22bec6f45d)
 
 ## Usage
 Launch the gazebo world using: 
